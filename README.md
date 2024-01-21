@@ -1,4 +1,4 @@
-<img src = "giphy.gif"   width = "325px" align = "right"> 
+<img src = "giphy (2).gif"   width = "325px" align = "right"> 
 
 # 🤩Seja Bem vindo ao meu GitHub! 
 
