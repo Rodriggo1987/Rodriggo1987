@@ -7,7 +7,7 @@ Meu nome é Rodrigo,  sou apaixonado pelo mundo dos Dados❤.
 
 ---
 
-- ❤ Analista de Dadoas 
+- ❤ Analista de Dados 
 - 🚀 Aprendendo Sobre Business Intelligence.
 - ❤ Formado em Data Science.
 
