@@ -3,11 +3,8 @@
 # 🤩Seja Bem vindo ao meu GitHub! 
 
 Meu nome é Rodrigo,  sou apaixonado pelo mundo dos Dados❤. 
-
-
 ---
- 
-- Apaixondo Por Dados Insights para negócios.  
+
 - ❤  Formando em Data Science.
 
 <div>
@@ -18,6 +15,8 @@ Meu nome é Rodrigo,  sou apaixonado pelo mundo dos Dados❤.
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Linguagem R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azuere" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   
 
   
